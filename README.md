@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Sam Mardazad.
-- 👀 I’m currently a PhD student at the chair of Ulrich Schollwöck in Munich, focussed on the developement of tensor networks methods for strongly correlated materials.
+- 👀 I’m currently a PhD student at the chair of Ulrich Schollwöck in Munich, focussed on the developement of tensor networks methods for strongly correlated materialsa and its application to Quantum Chemistry problems.
 - 🌱 My focus is C++, but I have also strong experience in python.
+- 🤩 I'm kind of old skool, so I love bash.
+- 🙃 I've got some experience in container software.
 - 📫 How to reach me sam.mardazad@physik.uni-muenchen.de
 
 <!---
