@@ -3,6 +3,7 @@
 - 🌱 My focus is C++, but I have also strong experience in python.
 - 🤩 I'm kind of old skool, so I love bash.
 - 🙃 I've got some experience in container software.
+- 😊 Our chair toolkit is not open source, nevertheless there are some useful little tools which are disentangled from it and which I would like to share here.
 - 📫 How to reach me sam.mardazad@physik.uni-muenchen.de
 
 <!---
